@@ -3,3 +3,7 @@ welcome to text1.txt file
 india is my country
 
 line1
+line4
+line5
+
+updated by priya to understand about conflicts 
